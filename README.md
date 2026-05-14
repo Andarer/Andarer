@@ -1,4 +1,3 @@
-```markdown
 # 🌟 Andarer
 
 <p align="center">
@@ -180,17 +179,3 @@ console.log(andarer.response("Привет!"));
   <a href="#-andarer">⬆️ Вернуться наверх</a>
 </p>
 ```
-
----
-
-### 🚀 Как активировать:
-
-1. **Создайте репозиторий** с именем вашего профиля: `Andarer/Andarer`
-2. **Добавьте файл** `README.md` в корень репозитория
-3. **Вставьте содержимое** выше и сохраните
-4. **Сделайте коммит и пуш**:
-   ```bash
-   git add README.md
-   git commit -m "feat: add profile README ✨"
-   git push
-   ```
