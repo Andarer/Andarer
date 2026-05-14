@@ -178,4 +178,3 @@ console.log(andarer.response("Привет!"));
 <p align="center">
   <a href="#-andarer">⬆️ Вернуться наверх</a>
 </p>
-```
