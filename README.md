@@ -70,11 +70,11 @@
 
 | Проект | Описание | Статус | Ссылка |
 |--------|----------|--------|--------|
-| **MetaQuoteWidget** | PWA-виджет с цитатами: свайпы, оффлайн, минимализм | ✅ Готов | [🔗](https://github.com/Andarer/MetaQuoteWidget) |
+| **MetaQuoteWidget** | PWA-виджет с цитатами: свайпы, оффлайн, минимализм | 🚧 В разработке | [🔗](https://github.com/Andarer/MetaQuoteWidget) |
 | **MUWS** | Конвертер Web → Android APK без написания кода | 🚧 В разработке | [🔗](https://github.com/Andarer/MUWS) |
-| **Intent Portal** | Лаборатория для тестирования ссылок и Android Intents | ✅ Готов | [🔗](https://github.com/Andarer/intent-portal) |
-| **FRP Activity Launcher** | Веб-панель для запуска системных активностей через intent:// | ✅ Готов | [🔗](https://github.com/Andarer/Android-FRP-Activity-Launcher) |
-| **Meta Calculator** | Kotlin-калькулятор с чистой архитектурой | ✅ Готов | [🔗](https://github.com/Andarer/meta-calculator) |
+| **Intent Portal** | Лаборатория для тестирования ссылок и Android Intents | 🚧 В разработке | [🔗](https://github.com/Andarer/intent-portal) |
+| **FRP Activity Launcher** | Веб-панель для запуска системных активностей через intent:// | 🚧 В разработке | [🔗](https://github.com/Andarer/Android-FRP-Activity-Launcher) |
+| **Meta Calculator** | Kotlin-калькулятор с чистой архитектурой | 🚧 В разработке | [🔗](https://github.com/Andarer/meta-calculator) |
 
 ### 📂 Структура проектов
 
@@ -98,10 +98,10 @@
 ## 📈 Статистика
 
 <!-- Раскомментируйте строки ниже для отображения живой статистики -->
-<!--
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andarer&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/Andarer)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andarer&layout=compact&theme=github_dark&hide_border=true)](https://github.com/Andarer)
--->
+
 
 <p align="center">
   <a href="https://github.com/Andarer">
