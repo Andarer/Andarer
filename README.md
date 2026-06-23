@@ -3,28 +3,32 @@
 </p><h1 align="center">⚡ ANDARER</h1><p align="center">
   <img src="./assets/logo.png" width="220" alt="MetaSymbiote Logo">
 </p><p align="center">
-<b>Creator of MetaSymbiote</b>
-<br>
+<b>Creator of MetaSymbiote</b><br>
 AI • Automation • Web • Android • Git • PWA
-</p><p align="center"><a href="https://github.com/Andarer">
+</p><p align="center">
+<a href="https://github.com/Andarer">
 <img src="https://img.shields.io/badge/GitHub-Andarer-black?style=for-the-badge&logo=github">
 </a><a href="https://andarer.github.io">
 <img src="https://img.shields.io/badge/Portal-MetaSymbiote-blue?style=for-the-badge">
-</a><img src="https://img.shields.io/badge/Open_Source-Ecosystem-orange?style=for-the-badge"><img src="https://img.shields.io/badge/Status-Building-success?style=for-the-badge"></p>---
+</a><img src="https://img.shields.io/badge/Open_Source-Ecosystem-orange?style=for-the-badge"><img src="https://img.shields.io/badge/Status-Building-success?style=for-the-badge">
+</p><p align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Andarer.Andarer">
+</p>---
 
-🧠 About
+👋 About
 
 Привет.
 
-Я создаю MetaSymbiote — экосистему взаимосвязанных проектов, инструментов и сервисов, объединяющих:
+Я — Andarer, создатель MetaSymbiote.
 
-- 🤖 Искусственный интеллект
-- ⚙️ Автоматизацию
+Исследую пересечение:
+
+- 🤖 Искусственного интеллекта
+- ⚙️ Автоматизации
 - 🌐 Web и PWA
 - 📱 Android
-- 🔗 Git-инфраструктуру
-- 📚 Управление знаниями
-- 🧩 Модульные цифровые системы
+- 🔗 Git-инфраструктуры
+- 📚 Управления знаниями
 
 Моя цель — создавать инструменты, которые работают вместе как единый организм.
 
@@ -82,14 +86,6 @@ Infrastructure
 "Docker" (https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 "Linux" (https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
-AI & Automation
-
-- OpenAI
-- Prompt Engineering
-- AI Assistants
-- Workflow Automation
-- Knowledge Systems
-
 ---
 
 📊 GitHub Analytics
@@ -118,7 +114,7 @@ MetaSymbiote Portal| In Development
 
 ---
 
-🚧 Active Development
+🚧 Current Focus
 
 - MetaBuilder
 - MetaSchedule Engine
@@ -133,5 +129,7 @@ MetaSymbiote Portal| In Development
 <p align="center">⚡ MetaSymbiote Ecosystem
 
 2026
+
+Сделано с ❤️ и кодом
 
 </p>
