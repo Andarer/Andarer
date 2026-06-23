@@ -1,21 +1,22 @@
-<p align="center">⚡ ANDARER</p>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Andarer/Andarer/main/assets/logo.png" width="220">
+  <img src="./assets/banner.png" alt="MetaSymbiote Banner">
+</p><h1 align="center">⚡ ANDARER</h1><p align="center">
+  <img src="./assets/logo.png" width="220" alt="MetaSymbiote Logo">
 </p><p align="center">
-<b>MetaSymbiote Ecosystem</b>
+<b>Creator of MetaSymbiote</b>
 <br>
 AI • Automation • Web • Android • Git • PWA
-</p><p align="center">""GitHub" (https://img.shields.io/badge/GitHub-Andarer-black?style=for-the-badge&logo=github)" (https://github.com/Andarer)
-""Website" (https://img.shields.io/badge/Portal-MetaSymbiote-blue?style=for-the-badge)" (https://andarer.github.io)
-""Status" (https://img.shields.io/badge/Status-Building-success?style=for-the-badge)" (#)
-""Open Source" (https://img.shields.io/badge/Open_Source-Projects-orange?style=for-the-badge)" (#)
+</p><p align="center"><a href="https://github.com/Andarer">
+<img src="https://img.shields.io/badge/GitHub-Andarer-black?style=for-the-badge&logo=github">
+</a><a href="https://andarer.github.io">
+<img src="https://img.shields.io/badge/Portal-MetaSymbiote-blue?style=for-the-badge">
+</a><img src="https://img.shields.io/badge/Open_Source-Ecosystem-orange?style=for-the-badge"><img src="https://img.shields.io/badge/Status-Building-success?style=for-the-badge"></p>---
 
-</p>---
+🧠 About
 
-🧠 MetaSymbiote
+Привет.
 
-MetaSymbiote — экосистема взаимосвязанных проектов, объединяющая:
+Я создаю MetaSymbiote — экосистему взаимосвязанных проектов, инструментов и сервисов, объединяющих:
 
 - 🤖 Искусственный интеллект
 - ⚙️ Автоматизацию
@@ -23,7 +24,13 @@ MetaSymbiote — экосистема взаимосвязанных проек�
 - 📱 Android
 - 🔗 Git-инфраструктуру
 - 📚 Управление знаниями
-- 🧩 Модульную архитектуру
+- 🧩 Модульные цифровые системы
+
+Моя цель — создавать инструменты, которые работают вместе как единый организм.
+
+---
+
+🌌 MetaSymbiote
 
 MetaSymbiote
 │
@@ -37,64 +44,26 @@ MetaSymbiote
 
 «Всё просто. И в этой простоте вся сложность.»
 
----
+<p align="center">
+  <img src="./assets/ecosystem-map.png" alt="MetaSymbiote Ecosystem">
+</p>---
 
-🚀 Карта экосистемы
+🚀 Core Projects
 
-⚙️ CORE
-
-Проект| GitHub| Pages
-MetaBuilder| https://github.com/Andarer/MetaBuilder| https://andarer.github.io/MetaBuilder
-MetaCore-Runtime| https://github.com/Andarer/MetaCore-Runtime| —
-MetaGitClient| https://github.com/Andarer/MetaGitClient| —
-MetaGit-Server| https://github.com/Andarer/MetaGit-Server| —
-MetaSchedule-Engine| https://github.com/Andarer/MetaSchedule-Engine| https://andarer.github.io/MetaSchedule-Engine
-
----
-
-🌐 WEB & PWA
-
-Проект| GitHub| Pages
-MetaCMS-Builder| https://github.com/Andarer/MetaCMS-Builder| —
-metacms_builder| https://github.com/Andarer/metacms_builder| —
-MUWS| https://github.com/Andarer/MUWS| —
-intent-portal| https://github.com/Andarer/intent-portal| —
-MetaQuoteWidget| https://github.com/Andarer/MetaQuoteWidget| —
-andarer.github.io| https://github.com/Andarer/andarer.github.io| https://andarer.github.io
+Project| Description
+MetaBuilder| Конструктор цифровых проектов
+MetaCore Runtime| Ядро экосистемы
+MetaGit Client| Git-инструменты
+MetaGit Server| Git-инфраструктура
+MetaSchedule Engine| Планирование и автоматизация
+MetaCMS Builder| Управление контентом
+MetaAdminApp| Панель управления
+GAME HUB| Игровая платформа
+MetaTradeBot| Торговая автоматизация
 
 ---
 
-📱 APPLICATIONS
-
-Проект| GitHub
-MetaAdminApp| https://github.com/Andarer/MetaAdminApp
-MetaAppBuilderGPT| https://github.com/Andarer/MetaAppBuilderGPT
-Android-FRP-Activity-Launcher| https://github.com/Andarer/Android-FRP-Activity-Launcher
-мета-калькулятор| https://github.com/Andarer
-метапин| https://github.com/Andarer
-
----
-
-🎮 EXPERIMENTAL
-
-Проект| GitHub
-GAME-HUB| https://github.com/Andarer/-GAME-HUB---
-testrepo| https://github.com/Andarer/testrepo
-GitSync| https://github.com/Andarer/GitSync
-MUWS Labs| https://github.com/Andarer/MUWS
-
----
-
-💼 BUSINESS
-
-Проект| GitHub
-AndarerOfficeApp| Private
-universal-saas-template| https://github.com/Andarer/universal-saas-template
-MetaTradeBot| https://github.com/Andarer/MetaTradeBot
-
----
-
-🛠️ Технологии
+🛠️ Technology Stack
 
 Mobile
 
@@ -113,23 +82,33 @@ Infrastructure
 "Docker" (https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 "Linux" (https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
+AI & Automation
+
+- OpenAI
+- Prompt Engineering
+- AI Assistants
+- Workflow Automation
+- Knowledge Systems
+
 ---
 
 📊 GitHub Analytics
 
-<p align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=Andarer&show_icons=true&theme=github_dark&hide_border=true"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andarer&layout=compact&theme=github_dark&hide_border=true"></p>---
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Andarer&show_icons=true&theme=github_dark&hide_border=true"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andarer&layout=compact&theme=github_dark&hide_border=true">
+</p>---
 
-🌍 Порталы
+🌍 Ecosystem Links
 
-Сервис| Адрес
+Resource| Link
 GitHub| https://github.com/Andarer
 GitHub Pages| https://andarer.github.io
 TopSicret| https://topsicret.com
-MetaSymbiote| В разработке
+MetaSymbiote Portal| In Development
 
 ---
 
-📜 Философия
+📜 Philosophy
 
 «Чтобы жить — нужно умереть.»
 
@@ -139,7 +118,7 @@ MetaSymbiote| В разработке
 
 ---
 
-🚧 Сейчас в разработке
+🚧 Active Development
 
 - MetaBuilder
 - MetaSchedule Engine
