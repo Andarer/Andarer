@@ -11,35 +11,162 @@
 
   "status": "🟢 Active",
 
+  "version": "1.0.0",
+
+  "author": "Andarer",
+
+  "ecosystem": "MetaSymbiote",
+
   "github": "https://github.com/Andarer",
 
   "website": "https://andarer.github.io",
 
+  "quote": "Всё просто. И в этой простоте вся сложность.",
+
   "projects": [
 
     {
+      "id": "metabuilder",
+
+      "icon": "🧩",
+
       "title": "MetaBuilder",
-      "description": "Конструктор цифровых проектов",
+
+      "category": "Core",
+
       "status": "🟢 Active",
+
+      "description": "Конструктор цифровых проектов и экосистем.",
+
       "github": "https://github.com/Andarer/MetaBuilder",
+
       "website": "https://andarer.github.io/MetaBuilder"
     },
 
     {
+      "id": "metaschedule",
+
+      "icon": "📅",
+
       "title": "MetaSchedule Engine",
-      "description": "Планирование и автоматизация",
+
+      "category": "Core",
+
       "status": "🟢 Active",
+
+      "description": "Система планирования и автоматизации.",
+
       "github": "https://github.com/Andarer/MetaSchedule-Engine",
+
       "website": "https://andarer.github.io/MetaSchedule-Engine"
     },
 
     {
-      "title": "GAME HUB",
-      "description": "Игровая платформа",
-      "status": "🟡 Development",
-      "github": "https://github.com/Andarer/-GAME-HUB---",
-      "website": "https://andarer.github.io/-GAME-HUB---"
-    }
+      "id": "metagit",
 
+      "icon": "🔗",
+
+      "title": "MetaGit Client",
+
+      "category": "Core",
+
+      "status": "🟡 Development",
+
+      "description": "Инструменты управления Git и репозиториями.",
+
+      "github": "https://github.com/Andarer/MetaGitClient",
+
+      "website": ""
+    },
+
+    {
+      "id": "metagit-server",
+
+      "icon": "🖥️",
+
+      "title": "MetaGit Server",
+
+      "category": "Core",
+
+      "status": "🟡 Development",
+
+      "description": "Серверная инфраструктура MetaGit.",
+
+      "github": "https://github.com/Andarer/MetaGit-Server",
+
+      "website": ""
+    },
+
+    {
+      "id": "metacms",
+
+      "icon": "📚",
+
+      "title": "MetaCMS Builder",
+
+      "category": "Core",
+
+      "status": "🟡 Development",
+
+      "description": "Платформа управления контентом.",
+
+      "github": "https://github.com/Andarer/MetaCMS-Builder",
+
+      "website": ""
+    },
+
+    {
+      "id": "gamehub",
+
+      "icon": "🎮",
+
+      "title": "GAME HUB",
+
+      "category": "Experimental",
+
+      "status": "🟡 Development",
+
+      "description": "Игровая платформа и каталог игр.",
+
+      "github": "https://github.com/Andarer/-GAME-HUB---",
+
+      "website": "https://andarer.github.io/-GAME-HUB---"
+    },
+
+    {
+      "id": "metatradebot",
+
+      "icon": "📈",
+
+      "title": "MetaTradeBot",
+
+      "category": "Business",
+
+      "status": "🟡 Development",
+
+      "description": "Автоматизация торговых операций.",
+
+      "github": "https://github.com/Andarer/MetaTradeBot",
+
+      "website": ""
+    },
+
+    {
+      "id": "metaadminapp",
+
+      "icon": "⚙️",
+
+      "title": "MetaAdminApp",
+
+      "category": "Apps",
+
+      "status": "🟡 Development",
+
+      "description": "Универсальная панель управления.",
+
+      "github": "https://github.com/Andarer/MetaAdminApp",
+
+      "website": ""
+    }
   ]
 }
