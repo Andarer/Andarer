@@ -1,75 +1,65 @@
-const projects = [
-{
-name:"MetaBuilder",
-description:"Конструктор цифровых проектов",
-github:"https://github.com/Andarer/MetaBuilder",
-website:"https://andarer.github.io/MetaBuilder",
-status:"🟢 Active"
-},
+async function loadData() {
 
-{
-name:"MetaSchedule",
-description:"Планирование и автоматизация",
-github:"https://github.com/Andarer/MetaSchedule-Engine",
-website:"https://andarer.github.io/MetaSchedule-Engine",
-status:"🟢 Active"
-},
+const response =
+await fetch("./meta_info.json");
 
-{
-name:"GAME HUB",
-description:"Игровая платформа",
-github:"https://github.com/Andarer/-GAME-HUB---",
-website:"https://andarer.github.io/-GAME-HUB---",
-status:"🟡 Development"
+const data =
+await response.json();
+
+renderProjects(data.projects);
+
 }
-];
 
-const grid = document.getElementById("projects-grid");
+function renderProjects(projects){
+
+const grid =
+document.getElementById("projects-grid");
+
+grid.innerHTML = "";
 
 projects.forEach(project => {
 
-const card = document.createElement("div");
+const card =
+document.createElement("div");
 
 card.className = "card";
 
 card.innerHTML = `
-<h3>${project.name}</h3>
+<h3>${project.title}</h3>
+
 <p>${project.description}</p>
+
+<div class="card-details">
+
+<p>${project.status}</p>
+
+<div class="buttons">
+
+<a href="${project.github}"
+target="_blank">
+GitHub
+</a>
+
+<a href="${project.website}"
+target="_blank">
+Website
+</a>
+
+</div>
+
+</div>
 `;
 
-card.onclick = () => {
-openProject(project);
-};
+card.addEventListener("click", () => {
+
+card.classList.toggle("expanded");
+
+});
 
 grid.appendChild(card);
 
 });
 
-function openProject(project){
-
-document.getElementById("modal-title").innerText =
-project.name;
-
-document.getElementById("modal-description").innerText =
-project.description;
-
-document.getElementById("modal-status").innerText =
-project.status;
-
-document.getElementById("github-btn").href =
-project.github;
-
-document.getElementById("website-btn").href =
-project.website;
-
-document.getElementById("modal").style.display =
-"flex";
-
 }
 
-function closeModal(){
-
-document.getElementById("modal").style.display =
-"none";
-
-}
+loadData();
