@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="ru">
+
 <head>
+
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -13,19 +15,22 @@
 
 <meta name="description"
 content="Andarer — создатель MetaSymbiote. AI, Automation, Android, Web, Git и цифровые экосистемы.">
+
 </head>
 
 <body>
 
 <header class="hero">
 
-<img src="./assets/banner.png"
+<img
+src="./assets/banner.png"
 alt="MetaSymbiote Banner"
 class="banner">
 
 <div class="hero-content">
 
-<img src="./assets/logo.png"
+<img
+src="./assets/logo.png"
 alt="MetaSymbiote Logo"
 class="logo">
 
@@ -65,7 +70,10 @@ Meta Portal
 Я создаю MetaSymbiote —
 экосистему взаимосвязанных проектов,
 объединяющих искусственный интеллект,
-автоматизацию, Android, Web и управление знаниями.
+автоматизацию,
+Android,
+Web
+и управление знаниями.
 </p>
 
 </section>
@@ -74,7 +82,8 @@ Meta Portal
 
 <h2>🌌 MetaSymbiote</h2>
 
-<img src="./assets/ecosystem-map.png"
+<img
+src="./assets/ecosystem-map.png"
 alt="MetaSymbiote Ecosystem"
 class="ecosystem-map">
 
@@ -82,41 +91,9 @@ class="ecosystem-map">
 
 <section class="projects">
 
-<h2>🚀 Core Projects</h2>
+<h2>🚀 Projects</h2>
 
-<div class="grid">
-
-<div class="card">
-<h3>MetaBuilder</h3>
-<p>Конструктор цифровых проектов</p>
-</div>
-
-<div class="card">
-<h3>MetaGit</h3>
-<p>Git-инструменты и инфраструктура</p>
-</div>
-
-<div class="card">
-<h3>MetaSchedule</h3>
-<p>Планирование и автоматизация</p>
-</div>
-
-<div class="card">
-<h3>MetaCMS</h3>
-<p>Контентные системы</p>
-</div>
-
-<div class="card">
-<h3>GAME HUB</h3>
-<p>Игровая платформа</p>
-</div>
-
-<div class="card">
-<h3>MetaTradeBot</h3>
-<p>Торговая автоматизация</p>
-</div>
-
-</div>
+<div id="projects-grid" class="grid"></div>
 
 </section>
 
@@ -131,6 +108,44 @@ class="ecosystem-map">
 </p>
 
 </footer>
+
+<div id="modal" class="modal">
+
+<div class="modal-content">
+
+<span
+class="close"
+onclick="closeModal()">
+×
+</span>
+
+<h2 id="modal-title"></h2>
+
+<p id="modal-description"></p>
+
+<p id="modal-status"></p>
+
+<div class="buttons">
+
+<a
+id="github-btn"
+target="_blank">
+GitHub
+</a>
+
+<a
+id="website-btn"
+target="_blank">
+Website
+</a>
+
+</div>
+
+</div>
+
+</div>
+
+<script src="app.js"></script>
 
 </body>
 </html>
