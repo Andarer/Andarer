@@ -3,33 +3,43 @@
 
   "title": "Andarer",
 
-  "short_description": "Персональный профиль создателя MetaSymbiote",
-
-  "description": "Личный профиль Анда́рера, архитектора цифровых экосистем и создателя MetaSymbiote.",
-
-  "category": "portal",
-
-  "status": "active",
-
-  "featured": true,
-
-  "version": "1.0.0",
-
-  "author": "Andarer",
-
-  "ecosystem": "MetaSymbiote",
-
   "icon": "🌌",
 
-  "github": "https://github.com/Andarer/Andarer",
+  "subtitle": "Creator of MetaSymbiote",
 
-  "website": "https://andarer.github.io/Andarer",
+  "description": "Анда́рер — создатель MetaSymbiote, архитектор будущих цифровых экосистем.",
 
-  "license": "MIT",
+  "status": "🟢 Active",
 
-  "tags": [
-    "metasymbiote",
-    "profile",
-    "portal"
+  "github": "https://github.com/Andarer",
+
+  "website": "https://andarer.github.io",
+
+  "projects": [
+
+    {
+      "title": "MetaBuilder",
+      "description": "Конструктор цифровых проектов",
+      "status": "🟢 Active",
+      "github": "https://github.com/Andarer/MetaBuilder",
+      "website": "https://andarer.github.io/MetaBuilder"
+    },
+
+    {
+      "title": "MetaSchedule Engine",
+      "description": "Планирование и автоматизация",
+      "status": "🟢 Active",
+      "github": "https://github.com/Andarer/MetaSchedule-Engine",
+      "website": "https://andarer.github.io/MetaSchedule-Engine"
+    },
+
+    {
+      "title": "GAME HUB",
+      "description": "Игровая платформа",
+      "status": "🟡 Development",
+      "github": "https://github.com/Andarer/-GAME-HUB---",
+      "website": "https://andarer.github.io/-GAME-HUB---"
+    }
+
   ]
 }
