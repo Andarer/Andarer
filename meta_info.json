@@ -1,0 +1,35 @@
+{
+  "id": "andarer",
+
+  "title": "Andarer",
+
+  "short_description": "Персональный профиль создателя MetaSymbiote",
+
+  "description": "Личный профиль Анда́рера, архитектора цифровых экосистем и создателя MetaSymbiote.",
+
+  "category": "portal",
+
+  "status": "active",
+
+  "featured": true,
+
+  "version": "1.0.0",
+
+  "author": "Andarer",
+
+  "ecosystem": "MetaSymbiote",
+
+  "icon": "🌌",
+
+  "github": "https://github.com/Andarer/Andarer",
+
+  "website": "https://andarer.github.io/Andarer",
+
+  "license": "MIT",
+
+  "tags": [
+    "metasymbiote",
+    "profile",
+    "portal"
+  ]
+}
